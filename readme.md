@@ -10,6 +10,8 @@ Solving problems from [type-challenges repo](https://github.com/type-challenges/
 
 **easy:**
 
+- [4. Pick](./src/easy/pick.ts)
+
 **medium:**
 
 **hard:**
